@@ -16,6 +16,8 @@ The project is divided into the following sections:
 ## Dataset Overview  
 The dataset is a synthetic representation of student performance, designed to simulate real-world scenarios.  
 
+Source: https://www.kaggle.com/datasets/stealthtechnologies/predict-student-performance-dataset/data
+
 ### Key Features  
 - **Study Hours**: Average daily hours spent studying.  
 - **Sleep Hours**: Average daily hours spent sleeping.  
@@ -49,9 +51,3 @@ The models were compared using:
 The project concludes with a comparison of all models, highlighting their performance on the dataset. Key insights and recommendations are provided based on the results of R² and MSE metrics.  
 
 ---
-
-## How to Run the Project  
-1. Clone this repository or download the notebook file.  
-2. Install the required dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
