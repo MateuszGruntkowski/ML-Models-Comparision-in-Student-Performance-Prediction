@@ -48,6 +48,6 @@ The models were compared using:
 ---
 
 ## Summary of Results  
-The project concludes with a comparison of all models, highlighting their performance on the dataset. Key insights and recommendations are provided based on the results of R² and MSE metrics.  
+The project concludes with a comparison of all models, highlighting their performance on the dataset. Key insights are provided based on the results of R² and MSE metrics.  
 
 ---
